@@ -1,0 +1,28 @@
+Phishing - social engineering with some spoofing
+
+Polish: "Phishing: A social engineering attack using spoofed emails or websites to trick users into revealing sensitive information like passwords."
+Why: Adds clarity on method and impact.
+
+
+Impersonation - use pretext to create urgency for an action
+
+Polish: "Impersonation: Pretending to be a trusted entity, often using a pretext to create urgency, to deceive victims into taking actions like sharing data."
+Why: Expands on the "pretext" tactic.
+
+
+on prem attacks - This is when a threat actor is targeting a orgs physical location infostructure
+
+Polish: "On-premises attacks: When a threat actor targets an organization's physical infrastructure, such as servers or networks within its facilities."
+Why: Fixes "infostructure" to "infrastructure" and clarifies scope.
+
+
+Cryptographic attacks - This is a method of finding weakness in code, cipher or implementation on cryptography
+
+Polish: "Cryptographic attacks: A method of exploiting weaknesses in cryptographic code, ciphers, or their implementation to access encrypted data."
+Why: Improves grammar and specifies the goal.
+
+
+Privileged escalation - this is when a threat actor is able to escalate there user or a user privileges to an admin or high level user
+
+Polish: "Privilege escalation: When a threat actor elevates their own or another user's privileges to an admin or higher-level access."
+Why: Fixes "escalasion" to "escalation" and "there" to "their," plus clarifies.
